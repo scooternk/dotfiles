@@ -1,0 +1,10 @@
+alias be='bundle exec'
+alias ber='bundle exec rspec'
+
+alias gl='git log'
+alias gst='git status'
+alias gd='git diff'
+alias gb='git branch'
+
+alias gcm='git commit -m'
+alias gco='git checkout'
